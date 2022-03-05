@@ -822,3 +822,46 @@ svg {
 	font-family: Verdana;
 }
 
+.interview {
+	padding-top: 2.5rem;
+	padding-left: 3.25rem;
+	padding-right: 3.25rem;
+	padding-bottom: 60px;
+	font-family: Verdana;
+	text-align: justify;
+}
+
+.titrePersonas{
+	padding-bottom: 1.5rem;
+}
+.cadre{
+	display : flex;
+	flex-direction: row;
+	
+  }
+.cadre_jaune{
+	display: flex;
+	background-color: #FFD365;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	flex: 1;
+}
+
+.cadre_beige{
+	display: flex;
+	background-color: #edcdbb;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	flex: 1;
+}
+
+.interieur_cadre{
+	display: flex;
+	flex-direction: column;
+}
+
+.profession{
+	padding-bottom: 1rem;
+}
+  
+	
