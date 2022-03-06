@@ -840,8 +840,8 @@ svg {
 	
   }
 .cadre_jaune{
-	display: flex;
-	background-color: #FFD365;
+	
+	background-color: #F7E2C7;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	flex: 1;
@@ -849,7 +849,7 @@ svg {
 
 .cadre_beige{
 	display: flex;
-	background-color: #edcdbb;
+	background-color: #FDF9E7;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	flex: 1;
