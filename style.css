@@ -873,4 +873,31 @@ svg {
 	padding-bottom: 1rem;
 }
   
-	
+.bInterview_g{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.bInterviewa{
+	padding-left: 3.25rem;
+	padding-right: 3.25rem;
+	margin-left: 3.25rem;
+	margin-right: 3.25rem;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:#d4afb9;
+	flex: 1;
+}
+.bInterviewb{
+	padding-left: 3.25rem;
+	padding-right: 3.25rem;
+	margin-left: 3.25rem;
+	margin-right: 3.25rem;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:#d1cfe2;
+	flex: 1;
+}
