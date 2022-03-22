@@ -834,10 +834,19 @@ svg {
 .titrePersonas{
 	padding-bottom: 1.5rem;
 }
-.cadre{
+
+.cadre_max_height{
 	display : flex;
 	flex-direction: row;
 	
+	max-height: 500px;
+	
+}
+
+.cadre{
+	display : flex;
+	flex-direction: row;
+	min-width: 400px;
   }
 .cadre_jaune{
 	
